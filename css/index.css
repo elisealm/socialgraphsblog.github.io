@@ -86,7 +86,7 @@ img, li {
 
 img {
   border-radius: 2px;
-  max-width: 100%;
+  max-width: 200px;
   height: auto;
 }
 
@@ -209,4 +209,9 @@ nav a {
 .katex {
   overflow-x: auto;
   overflow-y: hidden;
+}
+
+.pictureDiv {
+  width: 200px;
+  
 }
