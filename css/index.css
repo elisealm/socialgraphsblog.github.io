@@ -12,14 +12,14 @@
 }
 
 html {
-  background: #d3d4db;
+  background: #212228;
   font-size: 16px;
   font-size: calc(0.8rem + 0.3vw);
   padding: 0 calc(38% - 21em);
 }
 
 body {
-  background: #00ffff;
+  background: #212228;
   color: #0026ff;
   font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif;
   font-weight: 400;
@@ -57,7 +57,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: rgba(59, 112, 226, 0.973);
-
+  
 
 }
 
