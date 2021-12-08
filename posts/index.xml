@@ -8,137 +8,144 @@
     <language>en-us</language><atom:link href="https://elisealm.github.io/socialgraphsblog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A. Blair Waldorf</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/a.blair/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/blair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/a.blair/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/blair/</guid>
       <description>Here you can take a look at Blair waldorf or &amp;ldquo;Queen B&amp;rdquo;. Blair has an ongoing up and down relationship with Chuck Bass, and after Serena van der Woodsen and Dan Humphrey. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
-chuck dan eric jenny lily nate rufus serena blair</description>
+Blairs relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>B. Chuck Bass</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/b.chuck/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/chuck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/b.chuck/</guid>
-      <description>Here you can take a look at Chuck Bass. Throughout the television series, Chuck has an on-again/off-again relationship with Blair Waldorf. They marry in the series finale. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/chuck/</guid>
+      <description>Here you can take a look at Chuck Bass. Throughout the television series, Chuck has an on-again/off-again relationship with Blair Waldorf. They marry in the series finale. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+Chucks relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>C. Dan Humphrey</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/c.dan/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/dan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/c.dan/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/dan/</guid>
       <description>Here you can take a look at Dan Humphrey or &amp;ldquo;Lonley Boy&amp;rdquo;. Dan has an on-again-off-again relationship with Serena van der Woodsen and the two have the longest running relationship on the show. Dan and Serena finally get married in the finale. Dan is good friends with Nate Archibald, Blair Waldorf, and Chuck Bass. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
     </item>
     
     <item>
       <title>D. Eric Van Der Woodsen</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/d.eric/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/eric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/d.eric/</guid>
-      <description>Here you can take a look at Eric Van Der Woodsen. Eric is the brother of Serena van der Woodsen and son of Lily and William van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/eric/</guid>
+      <description>Here you can take a look at Eric Van Der Woodsen. Eric is the brother of Serena van der Woodsen and son of Lily and William van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+Erics relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>E. Jenny Humphrey</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/e.jenny/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/jenny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/e.jenny/</guid>
-      <description>Here you can take a look at Jenny Humphrey. She is the younger sister of Dan Humphrey and a social climber who idolizes Blair Waldorf and Serena van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/jenny/</guid>
+      <description>Here you can take a look at Jenny Humphrey. She is the younger sister of Dan Humphrey and a social climber who idolizes Blair Waldorf and Serena van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+Jennys relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>F. Lily Van Der Woodsen</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/f.lily/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/lily/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/f.lily/</guid>
-      <description>Here you can take a look at Lily Van Der Woodsen. Lily is the mother to Serena and Eric van der Woodsen, as well as being the birth mother of Scott Rosson and the adoptive mother to Chuck Bass. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/lily/</guid>
+      <description>Here you can take a look at Lily Van Der Woodsen. Lily is the mother to Serena and Eric van der Woodsen, as well as being the birth mother of Scott Rosson and the adoptive mother to Chuck Bass. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+Lilys relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>G. Nate Archibald</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/g.nate/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/nate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/g.nate/</guid>
-      <description>Here you can take a look at Nate Archibald. Nate is best friends with Chuck Bass and is good friends with Dan Humphrey, Serena van der Woodsen and Blair Waldorf. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/nate/</guid>
+      <description>Here you can take a look at Nate Archibald. Nate is best friends with Chuck Bass and is good friends with Dan Humphrey, Serena van der Woodsen and Blair Waldorf. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+Nates relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>H. Serena Van Der Woodsen</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/h.serena/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/serena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/h.serena/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/serena/</guid>
       <description>Here you can take a look at Serena Van Der Woodsen, or New Yorks It-girl. Serena has an on-again, off-again relationship with Dan Humphrey and the two have the longest running relationship on the show. She is best friends with Blair Waldorf and shares close friendships with Nate Archibald and Chuck Bass. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
     </item>
     
     <item>
       <title>I. Rufus Humphrey</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/i.rufus/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/rufus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/i.rufus/</guid>
-      <description>Here you can take a look at Rufus Humphrey. Rufus is the father of Dan and Jenny Humphrey, and the ex-husband of Alison Humphrey and Lily van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/rufus/</guid>
+      <description>Here you can take a look at Rufus Humphrey. Rufus is the father of Dan and Jenny Humphrey, and the ex-husband of Alison Humphrey and Lily van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+Rufus relations   Wordcloud of spoken words  </description>
     </item>
     
     <item>
       <title>J. Henry Bass</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/j.henry/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/henry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/j.henry/</guid>
-      <description></description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/henry/</guid>
+      <description>Henry Bass is the son of Chuck Bass and Blair Waldorf. Many may wonder why he is one of the Top 10 characters. But this is a perfect example of &amp;ldquo;You can&amp;rsquo;t hide from the past&amp;rdquo;. All of the relations and drama that has happend, has brought little Henry to life, but in to the drama and connected him to it.
+Henrys relations   </description>
     </item>
     
     <item>
-      <title>K. Data</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/k.data/</link>
+      <title>K. The Dataset</title>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/k.data/</guid>
-      <description></description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/data/</guid>
+      <description>The dataset that we will be analyzing consists of the wikipages:  Characters Episodes Seasons Categories  This became approximatley 248 wiki pages. Github repository ready to be cloned </description>
     </item>
     
     <item>
-      <title>L. he Families</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/family/l.family/</link>
+      <title>L. The Families</title>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/family/family/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/family/l.family/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/family/family/</guid>
       <description>In gossip Girl, there are alot of family drama and intrigues. The drama is about power, money and romantic relationships. The family drama has left us wondering, which of these families are actually the most powerful? We have therefore chosen to analyze this. We want to see which family is the most powerful, and which has the most contacts. The result is visualized in a network that shows amount of relations the three families have with the characters in gossip girl.</description>
     </item>
     
     <item>
       <title>M. Networking</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/m.network/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/m.network/</guid>
-      <description> The Whole  Network    Connections     </description>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/network/</guid>
+      <description>The Whole Network   We have analyzed the episodes and seasons and the characters impact on them. The Graph shows the relations between all the characters ever participateed in the Gossip Girl series. The nodes are the characters, and they are also defined with their charater name. The edge between to nodes define that they have a relation, and the color of the edge define what type of relation. If the edge is grey, they are in family with each other, if it is pink they have a romantic relationship, if it is blue they are friends and if it is purple, they are enemies.</description>
     </item>
     
     <item>
       <title>N. Sentiment Analysis</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/n.sentiment/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/sentiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/n.sentiment/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/sentiment/</guid>
       <description> Sentiment Analysis      Sentiment Analysis      Sentiment Analysis      Sentiment Analysis     </description>
     </item>
     
     <item>
       <title>O. Team</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/o.team/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/o.team/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/team/</guid>
       <description>Oline Zachariassen  MSc Computer Science  
 Elise Almestad  MSc Computer Science</description>
     </item>
