@@ -12,7 +12,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/blair/</guid>
-      <description>Here you can take a look at Blair waldorf or &amp;ldquo;Queen B&amp;rdquo;. Blair has an ongoing up and down relationship with Chuck Bass, and after Serena van der Woodsen and Dan Humphrey. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+      <description>Here you can take a look at Blair waldorf or &amp;ldquo;Queen B&amp;rdquo;. Blair has an ongoing up and down relationship with Chuck Bass, and after Serena van der Woodsen and Dan Humphrey. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.
+chuck dan eric jenny lily nate rufus serena blair</description>
     </item>
     
     <item>
@@ -88,12 +89,12 @@
     </item>
     
     <item>
-      <title>Network</title>
+      <title>Networking</title>
       <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/network/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/network/</guid>
-      <description></description>
+      <description> The Whole  Network    Connections     </description>
     </item>
     
     <item>
@@ -103,6 +104,15 @@
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/rufus/</guid>
       <description>Here you can take a look at Rufus Humphrey. Rufus is the father of Dan and Jenny Humphrey, and the ex-husband of Alison Humphrey and Lily van der Woodsen. To take a closer look at the relations, we have made a graph and a wordcloud that visualizes them.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis</title>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/sentiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/sentiment/</guid>
+      <description> Sentiment Analysis      Sentiment Analysis      Sentiment Analysis      Sentiment Analysis     </description>
     </item>
     
     <item>
@@ -120,7 +130,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/team/</guid>
-      <description></description>
+      <description>Oline Zachariassen  MSc Computer Science  
+Elise Almestad  MSc Computer Science</description>
+    </item>
+    
+    <item>
+      <title>The Families</title>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/family/family/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/family/family/</guid>
+      <description>In gossip Girl, there are alot of family drama and intrigues. The drama is about power, money and romantic relationships. The family drama has left us wondering, which of these families are actually the most powerful? We have therefore chosen to analyze this. We want to see which family is the most powerful, and which has the most contacts. The result is visualized in a network that shows amount of relations the three families have with the characters in gossip girl.</description>
     </item>
     
   </channel>
