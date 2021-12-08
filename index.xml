@@ -110,7 +110,9 @@ Henrys relations   This is the network of Henry.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/data/</guid>
-      <description>The dataset that we will be analyzing consists of the wikipages:  Characters Episodes Seasons Categories  This became approximatley 248 wiki pages. Github repository ready to be cloned </description>
+      <description>Data and basic stats  Data cleaning and preprocessing has ben used to fetch:  List of charachters The chrachters relatioships  The gender of the charachters  The Description of the charachter  
+The data has been fetched to be used for Network analasys and text analasys.
+Data Cleaning and preprosseding  To prosses and clean data the very popular Pytonlibrary Beautiful Soup has been used. Al data has been fetched by using the html tag and a unique identifier.</description>
     </item>
     
     <item>
