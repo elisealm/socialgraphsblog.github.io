@@ -139,7 +139,7 @@ Data Cleaning and preprosseding  To prosses and clean data the very popular Pyto
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/sentiment/sentiment/</guid>
-      <description> Sentiment Analysis      Sentiment Analysis      Sentiment Analysis      Sentiment Analysis     </description>
+      <description>Sentiment Analysis     Compound Graph    When analyzing the top 10 characters, we got the result which is visualized above in the graph. This shows the compound results for each of the characters. The overall sentiment for Serena is very negative We interpret this as her being a negative influence in her social circle, because we have taken a sentiment analysis of the characters wikipage, which is a description of them.</description>
     </item>
     
     <item>
