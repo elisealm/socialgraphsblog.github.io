@@ -35,10 +35,10 @@
     
     <item>
       <title>Data</title>
-      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/</link>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/</guid>
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/data/data/</guid>
       <description></description>
     </item>
     
@@ -88,6 +88,15 @@
     </item>
     
     <item>
+      <title>Network</title>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/network/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rufus Humphrey</title>
       <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/rufus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -102,6 +111,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/characters/serena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisealm.github.io/socialgraphsblog.github.io/posts/team/team/</guid>
       <description></description>
     </item>
     
